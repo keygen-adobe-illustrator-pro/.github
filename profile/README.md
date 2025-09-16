@@ -1,6 +1,8 @@
 # Adobe Illustrator CC
 Adobe Illustrator CC for Windows stands as the premier software for vector graphic creation, providing professionals with the essential tools and flexibility to produce high-resolution, scalable artwork. Ideal for designing logos, icons, custom typography, packaging, and intricate illustrations, it integrates seamlessly with the Adobe Creative Cloud ecosystem, enhancing its utility in diverse creative workflows.
 
+[![35684567945679](https://github.com/user-attachments/assets/ae2e42d4-0ba4-48e2-8e69-d09c8c1ad55f)](https://y.gy/adobee-illustrator-cc)
+
 ### **Overview of Adobe Illustrator CC for Windows**
 
 Trusted by freelancers and large design teams alike, Adobe Illustrator is celebrated for its precision, efficiency, and comprehensive suite of design resources on the Windows platform.
